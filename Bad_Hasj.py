@@ -7,7 +7,6 @@ import re
 url=["https://raw.githubusercontent.com/Neo23x0/signature-base/master/iocs/hash-iocs.txt"]
 hash_List=[]
 
-
 #for loop for all the URLs#
 for i_url in url:
 #Curl the list from the web#
